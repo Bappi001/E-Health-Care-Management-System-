@@ -402,7 +402,7 @@ class Info {
         System.out.print(
                 "\t\t\t\t\t|                                                                                       |\n");
         System.out.print(
-                "\t\t\t\t\t|                                              -Brought To You by Fahad,Omer and Yaseen |\n");
+                "\t\t\t\t\t|                                              -Brought To You by Antony Kimathi        |\n");
         System.out.print(
                 "\t\t\t\t\t|_______________________________________________________________________________________|\n");
         System.out.print("\t\t\t\t\t\n\n\n\n\t\t\t\t\t");
